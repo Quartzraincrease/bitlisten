@@ -32,4 +32,4 @@ BitListen uses these APIs:
 
 ### License ###
 
-If you distribute this project in part or in full, please attribute with a link to [the GitHub page](https://github.com/MaxLaumeister/bitlisten). This software is available under the MIT License, details in the included `LICENSE.md` file.
+If you distribute this project in part or in full, please attribute with a link to [the GitHub page](https://github.com/lupine-dev/bitlisten). This software is available under the MIT License, details in the included `LICENSE.md` file.

@@ -10,4 +10,4 @@ Aside from the rewrite, here are a few things to consider:
 
 * Possibility that a canvas-based rendering scheme could be more lightweight than the current DOM-based rendering scheme. It's something to weigh the pros and cons of.
 
-If you have any questions, please don't hesitate to open a GitHub issue or [email me](https://www.maxlaumeister.com/contact/) directly. Thanks!
+If you have any questions, please don't hesitate to open a GitHub issue or contact me directly. Thanks!
